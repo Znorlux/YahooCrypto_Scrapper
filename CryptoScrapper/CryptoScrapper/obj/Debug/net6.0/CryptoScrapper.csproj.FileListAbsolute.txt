@@ -1,0 +1,17 @@
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\bin\Debug\net6.0\CryptoScrapper.exe
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\bin\Debug\net6.0\CryptoScrapper.deps.json
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\bin\Debug\net6.0\CryptoScrapper.runtimeconfig.json
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\bin\Debug\net6.0\CryptoScrapper.dll
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\bin\Debug\net6.0\CryptoScrapper.pdb
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.csproj.AssemblyReference.cache
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.AssemblyInfoInputs.cache
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.AssemblyInfo.cs
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.csproj.CoreCompileInputs.cache
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.csproj.CopyComplete
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.dll
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\refint\CryptoScrapper.dll
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.pdb
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\CryptoScrapper.genruntimeconfig.cache
+C:\Users\mabe0\source\repos\CryptoScrapper\CryptoScrapper\obj\Debug\net6.0\ref\CryptoScrapper.dll

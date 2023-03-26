@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiwSZ2FuipvytSSeZtoU4WA7Nb5NpbNLYz39KBrSINNqx87w116jBnIyP8O2hTIlrSL5Du538yL0BuY0YvEZ6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mabe0\\source\\repos\\CryptoScrapper\\CryptoScrapper\\CryptoScrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mabe0\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
