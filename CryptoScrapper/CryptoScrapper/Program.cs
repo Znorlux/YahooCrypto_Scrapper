@@ -97,7 +97,7 @@ class Program
         //Creamos una nueva lista con las 10 criptomonedas con mayor % de change                                                       
         var top10Currencies = cryptoCurrencies.OrderByDescending(x => x.Change).Take(10);//con OrderByDescending ordenamos de manera descente en base al change %
         Console.WriteLine("");
-        //Console.WriteLine("Nueva actualización!");
+        Console.WriteLine("Nueva actualización!");
         Console.WriteLine("TOP 10 CRIPTOMENDAS CON MEJOR PORCENTAJE DE CAMBIO:");
         foreach (var currency in top10Currencies)
         {
